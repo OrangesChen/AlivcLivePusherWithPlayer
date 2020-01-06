@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                         It's an SDK for aliyun video vodplay, which implement by Objective-C.
                         DESC
-  s.homepage         = 'https://github.com/fengqun/AlivcLivePusherWithPlayer'
+  s.homepage         = 'https://github.com/OrangesChen/AlivcLivePusherWithPlayer.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fengqun' => 'fengqun@seeapp.com' }
-  s.source           = { :git => 'https://github.com/fengqun/AlivcLivePusherWithPlayer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/OrangesChen/AlivcLivePusherWithPlayer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
