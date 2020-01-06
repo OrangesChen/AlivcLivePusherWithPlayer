@@ -1,6 +1,5 @@
 # AlivcLivePusherWithPlayer
 
-[![CI Status](https://img.shields.io/travis/fengqun/AlivcLivePusherWithPlayer.svg?style=flat)](https://travis-ci.org/fengqun/AlivcLivePusherWithPlayer)
 [![Version](https://img.shields.io/cocoapods/v/AlivcLivePusherWithPlayer.svg?style=flat)](https://cocoapods.org/pods/AlivcLivePusherWithPlayer)
 [![License](https://img.shields.io/cocoapods/l/AlivcLivePusherWithPlayer.svg?style=flat)](https://cocoapods.org/pods/AlivcLivePusherWithPlayer)
 [![Platform](https://img.shields.io/cocoapods/p/AlivcLivePusherWithPlayer.svg?style=flat)](https://cocoapods.org/pods/AlivcLivePusherWithPlayer)
@@ -22,7 +21,7 @@ pod 'AlivcLivePusherWithPlayer'
 
 ## Author
 
-fengqun, fengqun@seeapp.com
+
 
 ## License
 
